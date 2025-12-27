@@ -1,5 +1,7 @@
 # About Me:
-Computer Science (AI & ML) student interested in problem solving and building practical software projects. Currently learning and working with Java, Python, and core computer science concepts such as data structures, algorithms, and databases. Exploring AI-based applications and open-source projects while continuously improving coding and development skills.
+Computer Science (AI & ML) student interested in problem solving and building practical software projects.<br>
+Currently learning and working with Java, Python, and core computer science concepts such as data structures, algorithms, and databases.<br>
+Exploring AI-based applications and open-source projects while continuously improving coding and development skills.
 
 
 ## 🌐 Socials:
