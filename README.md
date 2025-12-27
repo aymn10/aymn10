@@ -1,5 +1,5 @@
 # About Me:
-SY Student pursing btech from VIT Pune in CSAIML. Confident Computer Science (AI & ML) student with a strong foundation<br>in programming, data structures, and problem-solving, continuously<br>focused on improving technical depth and practical understanding.<br>Hardworking and passionate about learning new technologies, building<br>efficient software solutions, and applying core concepts through hands<br>on development. Demonstrates consistency, discipline, and adaptability<br>while working on academic and personal projects, with the ability to<br>collaborate effectively in team environments.
+Computer Science (AI & ML) student interested in problem solving and building practical software projects. Currently learning and working with Java, Python, and core computer science concepts such as data structures, algorithms, and databases. Exploring AI-based applications and open-source projects while continuously improving coding and development skills.
 
 
 ## 🌐 Socials:
