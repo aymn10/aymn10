@@ -52,8 +52,6 @@ Currently exploring:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 
 
-## GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=aymn10&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aymn10&theme=github-dark-blue&hide_border=true)
